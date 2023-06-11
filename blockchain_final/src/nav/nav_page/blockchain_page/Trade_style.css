@@ -1,0 +1,32 @@
+  .App {
+    display: flex;
+    justify-content: center;
+    color: black ;
+    text-align: center;
+  }
+  .card{
+    width: 50%;
+    margin-top: 10%;
+    border-radius: 20px;
+    box-shadow:0 3px 5px #ffffff;
+  }
+  .button{
+    background-color: antiquewhite;
+    border-radius: 5xp;
+    box-shadow: 0 2px 2px #ffffff;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 10px;
+  }
+  .input{
+    width :400px;
+    height: 45px;
+    text-align: center;
+    border-radius: 5px;
+    font-size: 20px;
+    margin-right: 10px;
+  }
+  .buy-div{
+    margin: 20px;
+  }
+  
